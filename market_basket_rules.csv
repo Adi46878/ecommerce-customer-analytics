@@ -1,0 +1,11 @@
+antecedents,consequents,support,confidence,lift
+YouTube Custom Decals,Google Laptop and Cell Phone Stickers,0.005346953433621963,0.31980906921241053,9.943840054010199
+Google Laptop and Cell Phone Stickers,YouTube Custom Decals,0.005346953433621963,0.1662531017369727,9.943840054010197
+Nest Cam Outdoor Security Camera - USA,Nest Cam Indoor Security Camera - USA,0.027652527832089702,0.20823317307692307,1.615644442873303
+Nest Cam Indoor Security Camera - USA,Nest Cam Outdoor Security Camera - USA,0.027652527832089702,0.21455108359133127,1.615644442873303
+Nest Protect Smoke + CO White Wired Alarm-USA,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,0.007222377399146084,0.1699530516431925,1.2130998083822406
+Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest Protect Smoke + CO White Wired Alarm-USA,0.007222377399146084,0.051552264312161776,1.2130998083822406
+Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest Protect Smoke + CO White Battery Alarm-USA,0.009017996089541519,0.06436912560524068,1.1852716067545455
+Nest Protect Smoke + CO White Battery Alarm-USA,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,0.009017996089541519,0.16605437178545188,1.1852716067545455
+Nest Cam Outdoor Security Camera - USA,Nest Protect Smoke + CO White Battery Alarm-USA,0.0076613064123538565,0.05769230769230769,1.062326908947041
+Nest Protect Smoke + CO White Battery Alarm-USA,Nest Cam Outdoor Security Camera - USA,0.0076613064123538565,0.1410727406318883,1.062326908947041
